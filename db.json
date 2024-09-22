@@ -29,6 +29,96 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 101,
+      "category": "education",
+      "title": "STEM for Kids",
+      "description": "A fun day of science, technology, engineering, and math activities for children.",
+      "location": "Tech Park",
+      "date": "April 9, 2022",
+      "time": "09:00",
+      "organizer": "Dr. Ada Lovelace"
+    },
+    {
+      "id": 102,
+      "category": "arts",
+      "title": "Community Art Walk",
+      "description": "Explore local art and meet the artists behind the masterpieces.",
+      "location": "Gallery Lane",
+      "date": "May 15, 2022",
+      "time": "17:00",
+      "organizer": "Arty Brush"
+    },
+    {
+      "id": 103,
+      "category": "sports",
+      "title": "5k Charity Run",
+      "description": "Run or walk to raise funds for local charities.",
+      "location": "Riverfront Park",
+      "date": "June 3, 2022",
+      "time": "08:00",
+      "organizer": "Speedy Gonzales"
+    },
+    {
+      "id": 104,
+      "category": "animal welfare",
+      "title": "Dog Adoption Day",
+      "description": "Find your loyal canine companion at this event.",
+      "location": "Bark Plaza",
+      "date": "August 4, 2022",
+      "time": "13:00",
+      "organizer": "Rex Barker"
+    },
+    {
+      "id": 105,
+      "category": "music",
+      "title": "Summer Jazz Festival",
+      "description": "Enjoy live jazz performances by local and international artists.",
+      "location": "Harmony Park",
+      "date": "July 18, 2022",
+      "time": "19:00",
+      "organizer": "Miles Davis"
+    },
+    {
+      "id": 106,
+      "category": "technology",
+      "title": "Tech Innovation Expo",
+      "description": "Discover the latest in tech advancements from startups and major companies.",
+      "location": "Innovation Hub",
+      "date": "September 22, 2022",
+      "time": "10:00",
+      "organizer": "Elon Tusk"
+    },
+    {
+      "id": 107,
+      "category": "environment",
+      "title": "Tree Planting Day",
+      "description": "Join us to plant trees and help restore the local ecosystem.",
+      "location": "Green Valley",
+      "date": "October 5, 2022",
+      "time": "09:30",
+      "organizer": "Forest Green"
+    },
+    {
+      "id": 108,
+      "category": "health",
+      "title": "Yoga in the Park",
+      "description": "Relax with a morning of guided yoga sessions.",
+      "location": "Serenity Park",
+      "date": "November 12, 2022",
+      "time": "07:30",
+      "organizer": "Yogi Peace"
+    },
+    {
+      "id": 109,
+      "category": "charity",
+      "title": "Clothing Drive",
+      "description": "Donate clothes to those in need this winter.",
+      "location": "Helping Hands Center",
+      "date": "December 3, 2022",
+      "time": "14:00",
+      "organizer": "Charity Weaver"
     }
   ]
 }
